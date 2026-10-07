@@ -1,6 +1,6 @@
-🌐 Language: **English** | [Español](README_ES.md)
-# Product Engagement, Conversion & Retention Analysis
 
+# Product Engagement, Conversion & Retention Analysis
+🌐 Language: **English** | [Español](README_ES.md)
 ## Executive Summary
 
 This end-to-end Product Analytics project investigates whether acquired users are becoming engaged, converting into paying customers, and remaining subscribed over time.
